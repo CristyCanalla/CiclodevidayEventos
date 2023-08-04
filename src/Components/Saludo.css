@@ -1,0 +1,11 @@
+.saludo{
+    background-color: rgb(235, 94, 253);
+    padding: 20px;
+    border-radius:8px;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    margin: 20px auto;
+    width:300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
